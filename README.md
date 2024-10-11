@@ -5,7 +5,7 @@ I recently graduated with a Bachelor of Science in Mathematics from Pabna Univer
 
 Skills: Python / C++ / Matlab / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning Machine learning 
 - 👯 I’m looking to collaborate on Machine learning project 
 
